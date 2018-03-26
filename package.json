@@ -4,7 +4,7 @@
   "dependencies": {
     "impac-angular": "git+https://git@github.com/maestrano/impac-angular.git#staging",
     "mno-enterprise-angular": "git+https://git@github.com/maestrano/mno-enterprise-angular.git#2.0",
-    "mnoe-admin-panel": "git+https://git@github.com/maestrano/mnoe-admin-panel.git#2.0"
+    "mnoe-admin-panel": "git+https://git@github.com/paulstuartparker/mnoe-admin-panel.git#feature/952-read-only-actions"
   },
   "engines": {
     "node": ">= 6.9.0"
