@@ -1,7 +1,7 @@
 GIT
-  remote: https://github.com/maestrano/mno-enterprise
-  revision: abb775e8423089dd488b144f4ae67511625bf922
-  branch: 4.0
+  remote: https://github.com/MAhsenArif/mno-enterprise
+  revision: 743e97ea843ec43b4eab83f862c4cfa7f29302d3
+  branch: product_markup_update
   specs:
     mno-enterprise (4.0.0.pre.dev)
       mno-enterprise-api (= 4.0.0.pre.dev)
