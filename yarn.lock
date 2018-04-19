@@ -12,4 +12,4 @@
 
 "mnoe-admin-panel@git+https://git@github.com/MAhsenArif/mnoe-admin-panel.git#markup_with_original_price":
   version "2.0.0-dev"
-  resolved "git+https://git@github.com/MAhsenArif/mnoe-admin-panel.git#575458c09044cd815e1e597d12bee31b932b04db"
+  resolved "git+https://git@github.com/MAhsenArif/mnoe-admin-panel.git#1def77ca4c6d21d62acad984bdee56a787c0b99d"
