@@ -6,9 +6,9 @@
   version "1.6.9"
   resolved "git+https://git@github.com/maestrano/impac-angular.git#a47bdda29d643da0dfddb72486766182efd2e0ed"
 
-"mno-enterprise-angular@git+https://git@github.com/maestrano/mno-enterprise-angular.git#2.0":
+"mno-enterprise-angular@https://github.com/rheasunshine/mno-enterprise-angular.git#bug/1038-adding-and-removing-team-members":
   version "2.0.0-dev"
-  resolved "git+https://git@github.com/maestrano/mno-enterprise-angular.git#38cb134a0b008608de61a111dac9d361417411d5"
+  resolved "https://github.com/rheasunshine/mno-enterprise-angular.git#b148a567ed43406e64a7c7c487d8bb6b8544e876"
 
 "mnoe-admin-panel@git+https://git@github.com/maestrano/mnoe-admin-panel.git#2.0":
   version "2.0.0-dev"
