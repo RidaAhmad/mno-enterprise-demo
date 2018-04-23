@@ -1,7 +1,7 @@
 GIT
-  remote: https://github.com/maestrano/mno-enterprise
-  revision: 1aa2976576f969d17ec94b86d2af37db59430a0c
-  branch: 4.0
+  remote: https://github.com/MAhsenArif/mno-enterprise
+  revision: 3d0e9d9eae90e41b29a58cbea3453f2269ffacad
+  branch: metrics_staff_permission
   specs:
     mno-enterprise (4.0.0.pre.dev)
       mno-enterprise-api (= 4.0.0.pre.dev)
