@@ -12,4 +12,4 @@
 
 "mnoe-admin-panel@git+https://git@github.com/iseessel/mnoe-admin-panel.git#feature/353-json-schema-conditional-fields":
   version "2.0.0-dev"
-  resolved "git+https://git@github.com/iseessel/mnoe-admin-panel.git#f1a1444ecaf0251453f7a20ed759dd2ac67a815a"
+  resolved "git+https://git@github.com/iseessel/mnoe-admin-panel.git#ece71ab47111d99609008acc23616ade71f7609d"
